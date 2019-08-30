@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: raphaeldavidov
+Build-Jdk: 12.0.1
+Implementation-Title: assessment6a
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: co.grandcircus
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/assessment6a
+Created-By: Maven Integration for Eclipse
+
